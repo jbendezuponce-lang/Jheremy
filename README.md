@@ -3,6 +3,12 @@
 
 # <img src="banner.jpg">
 
+[![YouTube](https://img.shields.io/badge/YouTube-jheremytopgameplays1424-red?style=social&logo=youtube)](https://www.youtube.com/@jheremytopgameplays1424)
+[![Twitch Status](https://img.shields.io/twitch/status/jheremytopgamenplays?style=social)](https://www.twitch.tv/jheremytopgamenplays)
+![Discord](https://img.shields.io/badge/Discord-jheremy6312-blue?style=social&logo=discord)
+[![GitHub Followers](https://img.shields.io/github/followers/TU_USUARIO_GITHUB?style=social)](https://github.com/TU_USUARIO_GITHUB)
+[![GitHub Stars](https://img.shields.io/github/stars/TU_USUARIO_GITHUB?style=social)](https://github.com/TU_USUARIO_GITHUB)
+
 Soy estudiante de Ingeniería de Sistemas e Informática en la **Universidad Tecnológica del Perú (UTP)** (perteneciente al décimo superior). Tengo conocimientos sólidos en herramientas tecnológicas, facilidad para el trabajo en equipos multidisciplinarios y aptitud para la gestión de proyectos. Mi objetivo es participar activamente en proyectos de tecnología, investigación, ciencia e innovación para generar un impacto positivo y sostenible en nuestro entorno.
 
 ---
