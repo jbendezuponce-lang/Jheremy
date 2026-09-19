@@ -33,7 +33,7 @@ Soy estudiante de Ingeniería de Sistemas e Informática en la **Universidad Tec
 ---
 
 ## 🎓 Educación
-- 🎓 **Ingeniería de Sistemas e Informática** - *Universidad Tecnológica del Perú (Mar 2024 - Mar 2029)* | Diploma de Beca por Excelencia Académica (Ago 2024).
+- 🎓 **Ingeniería de Sistemas e Informática** - *Universidad Tecnológica del Perú (Mar 2024 - Mar 2029)*
 - 📊 **Análisis de Datos con Power BI** - *Universidad Peruana de Ciencias Aplicadas (Ago 2025)*.
 - 🤖 **Programas de Iniciación Tecnológica (PIT)** - *Universidad Nacional de Ingeniería (2025)*: Ciencia de Datos (1 y 2), Machine Learning con Python, SQL (Base de Datos 1 y 2), Programación en Python (Básico e Intermedio).
 - 🗣️ **Inglés Básico / Intermedio** - *Asociación Cultural Peruano Británica (Británico)*.
