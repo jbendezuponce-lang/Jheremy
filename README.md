@@ -1,4 +1,4 @@
-# ![Emote](Emote.jpg) Hola, soy Jheremy Antonio Bendezu Ponce 👋
+# <img src="Emote.jpg" width="40" align="center"> Hola, soy Jheremy Antonio Bendezu Ponce 👋
 ### Estudiante de Ingeniería de Sistemas e Informática | Apasionado por la Tecnología y la Innovación 🚀
 
 Soy estudiante de Ingeniería de Sistemas e Informática en la **Universidad Tecnológica del Perú (UTP)** (perteneciente al décimo superior). Tengo conocimientos sólidos en herramientas tecnológicas, facilidad para el trabajo en equipos multidisciplinarios y aptitud para la gestión de proyectos. Mi objetivo es participar activamente en proyectos de tecnología, investigación, ciencia e innovación para generar un impacto positivo y sostenible en nuestro entorno.
