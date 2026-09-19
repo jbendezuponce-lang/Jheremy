@@ -1,5 +1,5 @@
 # <img src="Emote.jpg" width="60" > Hola, soy Jheremy Antonio Bendezu Ponce 👋
-### Estudiante de Ingeniería de Sistemas e Informática | Apasionado por la Tecnología y la Innovación 🚀
+### Estudiante de Ingeniería de Sistemas e Informática | Apasionado por la Tecnología y la Innovación 
 
 # <img src="banner.jpg">
 
