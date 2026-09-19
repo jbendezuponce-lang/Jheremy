@@ -70,6 +70,5 @@ Soy estudiante de Ingeniería de Sistemas e Informática en la **Universidad Tec
 ---
 
 ## 📫 Contáctame:
-## 📫 Contáctame:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jheremy_Bendezu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jbendezuponce/)
 [![Email](https://img.shields.io/badge/Email-Envíame_un_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jbendezuponce@gmail.com)
